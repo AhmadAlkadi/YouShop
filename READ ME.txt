@@ -1,0 +1,4 @@
+When opining this project in apache netbeans make sure to go to libraries and right click on it.
+Then you will need to add JAR/folder.
+The jar file you will need to add is a mysql connector.
+The file will need to be installed by MySQL and then you will need to go to C:\Program Files (x86)\MySQL\Connector J 8.0 or where the file was installed.
